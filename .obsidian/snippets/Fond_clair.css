@@ -1,14 +1,14 @@
 .theme-light .workspace {
-    backdrop-filter: brightness(1) blur(50px); /* filter for light mode */
+    backdrop-filter: brightness(1.15) blur(10px); /* filter for light mode */
     background-color: transparent;
   }
   .theme-dark .workspace {
-    backdrop-filter: brightness(0.35) blur(10px); /* filter for dark mode */
+    backdrop-filter: brightness(0.35) blur(50px); /* filter for dark mode */
     background-color: transparent;
   }
-  .horizontal-main-container { /* below is the background image. Change it to whatever you want */
+  .horizontal-main-container { /* below is the background image. Change it to whatever you want , credit https://www.deviantart.com/moniicaart/art/Pandaria-Jade-Forest-758284708*/
   
-    background: url(https://cdn.discordapp.com/attachments/734561927795310683/1298420672040538222/complete-7.png?ex=67197ffb&is=67182e7b&hm=2763a017a97cf6131ea0f3ec5a40f77160f768967bbf67285d4df4b9d3f538af&);
+    background: url(https://cdn.discordapp.com/attachments/734561927795310683/1298427618114142270/winter-snow-covered-forest-desktop-wallpaper-preview.jpg?ex=67198673&is=671834f3&hm=b5ecd31d8136d798a88c95d83b3e2b874fd7e7fe174a35dc4adf2b0f7224b7da&);
     background-position: center;
     background-attachment: fixed 
   }
@@ -23,6 +23,6 @@
   I changed background-secondary and divider-width because it
   looks a bit cleaner in my opinion. You can delete those modifications if you want.*/
     --background-primary: semi-transparent;
-    --background-secondary: #201729;
+    --background-secondary: #c7d8fd;
     --divider-width: 0px;
   }

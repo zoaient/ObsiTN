@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRO/Revisions/La GRO , sa vie , son oeuvre.md",
+                "file": "Lismoi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La GRO , sa vie , son oeuvre"
+              "title": "Lismoi"
             }
           }
         ],
@@ -188,8 +188,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           }
         ],
@@ -202,7 +202,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-matrix:Obsidian Matrix": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -210,28 +209,41 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-matrix:Obsidian Matrix": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "f8fc9d96665520be",
   "lastOpenFiles": [
+    "no-bitches 1.jpg",
+    "PCD/CM/Résumés CM/CM2.2.pdf",
+    "Lismoi.md",
+    "TRAD 1/TD/TD5/Notes.md",
+    "no-bitches.jpg",
+    "Pasted image 20241018163422.png",
+    "Pasted Image 20241001174114_248.png",
+    "TRAD 1/TD/TD1 et TD2/Notes.md",
+    "PCD/CM/Résumés CM/Notes.md",
+    "PCD/A savoir.md",
+    "TRAD 1/TD/TD1 et TD2/Automate LR(1).md",
+    "TRAD 1/TD/TD4/Notes.md",
+    "TRAD 1/TD/TD5/Arbre syntaxique.md",
+    "GRO/TD/TD4/Notes.md",
+    "GRO/Revisions/La GRO , sa vie , son oeuvre.md",
     "GRO/CM/CM3/PL2n.pdf",
     "GRO/CM/CM3/PL1.pdf",
     "GRO/TD/TD1/Notes.md",
     "GRO/TD/TD3/Notes.md",
-    "GRO/TD/TD4/Notes.md",
     "GRO/TD/TD2/notes.md",
     "GRO/TD/TD1/Ex3 1.md",
     "GRO/TD/TD1/Ex1 Q2.png",
     "GRO/CM/CM3/PL3.pdf",
     "GRO/TD/TD3/td3_2024.pdf",
     "GRO/TD/TD5/Notes.md",
-    "GRO/Revisions/La GRO , sa vie , son oeuvre.md",
     "GRO/TD/TD2/td2_2024.pdf",
     "GRO/TD/TD1/td1.pdf",
     "GRO/CM/CM3/Notes.md",
     "GRO/CM/A savoir.md",
-    "Pasted image 20241018163422.png",
     "Systèmes/TD/TD1/Notes.md",
     "Systèmes/CM/CM1/Notes.md",
     "GRO/CM/CM1/Notes.md",
@@ -244,22 +256,10 @@
     "TRAD 1/TD/TD6/Sainte marie mere jesus de dieu.md",
     "Excalidraw/moci diagramme d'activité recrutement.md",
     "TRAD 1/TD/TD6/Grammaire plus simple.md",
-    "TRAD 1/TD/TD5/Notes.md",
-    "TRAD 1/A savoir.md",
-    "TRAD 1/TD/TD3/Automate SLR(1).md",
-    "TRAD 1/TD/TD1 et TD2/Pile.md",
-    "TRAD 1/TD/TD1 et TD2/Notes.md",
-    "TRAD 1/TD/TD1 et TD2/Juste envie de dcd.md",
-    "TRAD 1/TD/TD1 et TD2/Automate LR(1).md",
     "TRAD 1/TD/TD1 et TD2/AHHHHHHHHH 1.png",
-    "TRAD 1/TD/TD1 et TD2/Drawing 2024-09-23 14.20.10.excalidraw.md",
     "TRAD 1/TD/TD6",
     "TRAD 1/CM/CM1/Schéma Général d'un compilateur.png",
     "Droit/TD/TD1/bober-kurwa.gif",
-    "Droit/TD/TD3/TD3.pdf",
-    "no-bitches.jpg",
-    "Droit/CM/CM1/Skin_Loading_Screen_Pizza_Delivery_Sivir.webp",
-    "Droit/CM/CM1/ozPAtsw.jpeg",
     "GRO/TD/TD1/Sans titre.canvas",
     "TRAD 1/CM/CM1/Untitled.canvas"
   ]
