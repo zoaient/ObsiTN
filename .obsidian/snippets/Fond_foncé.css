@@ -1,0 +1,26 @@
+.theme-light .workspace {
+    backdrop-filter: brightness(1) blur(50px); /* filter for light mode */
+    background-color: transparent;
+  }
+  .theme-dark .workspace {
+    backdrop-filter: brightness(0.35) blur(50px); /* filter for dark mode */
+    background-color: transparent;
+  }
+  .horizontal-main-container { /* below is the background image. Change it to whatever you want */
+    background: url(https://cdn.discordapp.com/attachments/734561927795310683/1292833976599445514/ozPAtsw.jpeg?ex=67052cf7&is=6703db77&hm=657ccfec80d66bad90e78bd638c5b3c74260fad3322f7bdf5bd73183fb092b89&);
+    background-position: center;
+    background-attachment: fixed 
+  }
+  .workspace-split.mod-root {
+    background-color: var(--background-primary);
+  }
+  
+  body { 
+  /* the background-primary makes the main note pane completely transparent. 
+  You can change it to be semi-transparent if you want. 
+  I changed background-secondary and divider-width because it
+  looks a bit cleaner in my opinion. You can delete those modifications if you want.*/
+    --background-primary: semi-transparent;
+    --background-secondary: #1a0505;
+    --divider-width: 0px;
+  }

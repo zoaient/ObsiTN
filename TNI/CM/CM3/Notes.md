@@ -1,0 +1,1 @@
+Expansion de dynamique : étaler les valeurs entre le niveau de gris 0 et 255

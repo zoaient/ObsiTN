@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Royal Velvet",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Fond",
+    "Fond_foncé"
+  ],
+  "accentColor": "#800000"
+}
