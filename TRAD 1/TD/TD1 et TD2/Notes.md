@@ -37,8 +37,11 @@ V->entier | nil \quad r6,r7\\
 \end{cases}$$
 ### Automate LR(0)
 #### Comment construire mon automate LR(0) ?
-- On part de l'état 0, avec tout les items
-- Pour chaque terminal ou non terminal qu'on peut lire à partir de ces items on construit un nouvel état avec l'item qu'on a utlisé, on avance notre marqueur d'un 
+![[Merci typst'n !.png]]
+##### Et en français ?
+Pour chaque état, pour chaque règle, si on à un non terminal sur le caractère a gauche de notre marqueur, on rajoute l'ensemble des règles produites par ce non terminal avec le marqueur partant du début
+Pour l'état initial on part de l'axiome
+Sinon, on part des règles ou on peut avancer le marqueur en lisant un caractère spécifique
 #### Automate
 ![[Juste envie de dcd]]
 ### Table d'analyse SLR(1)

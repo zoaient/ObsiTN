@@ -26,12 +26,7 @@ I_j=\begin{cases}A\rightarrow Ba.Da\\
 	- Cet automate est constitué d'items LR(0)
 ### Item LR(1)
 - $[A \rightarrow \alpha .\beta,a]$
-### Etat de l'automate LR(1)
-- Ensemble des items LR(1) obtenus par ==fermeture==
-- Calcul des fermetures pour un état I:
-	- Si $[A \rightarrow \alpha .B \beta,a]$  est dans I
-	- Si $[B \rightarrow \gamma ]\in G$
-		- Alors ajouter $[B \rightarrow .\gamma ,b]ou \quad b \in Premier(\beta a)$
+
 ### Table d'analyse syntaxique ascendante LR(1)
 - (idem pour SLR(1))
 - La différence est sur les réductions

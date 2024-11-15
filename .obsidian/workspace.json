@@ -6,56 +6,76 @@
       {
         "id": "e4670e29b985a7a4",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "2decfec7e43a9469",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "GRO/TD/TD3/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "TRAD 1/TD/TD7/La deuxieme grosse pile.md"
               },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "icon": "excalidraw-icon",
+              "title": "La deuxieme grosse pile"
             }
           },
           {
-            "id": "f8fc9d96665520be",
+            "id": "ca9da554f891ec73",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "TRAD 1/TD/TD7/la grosse pile.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "la grosse pile"
+            }
+          },
+          {
+            "id": "b90dc6f06b40e2ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CULTURAGE.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CULTURAGE"
+            }
+          },
+          {
+            "id": "767b4e4b4e2e8455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TRAD 1/TD/TD7/Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Sans titre"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "cbaa06de4c97ef73",
+        "id": "06033027c9287be9",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "dd859377397e4c88",
+            "id": "c2a4202ab69f2f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRO/TD/TD4/Notes.md",
+                "file": "TRAD 1/Revisions/Moi quand culture G/CULTURAGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "CULTURAGE"
             }
           }
         ]
@@ -176,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRO/CM/CM3/PL2n.pdf"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de PL2n"
+              "title": "Plan de README"
             }
           },
           {
@@ -188,12 +208,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Le module complémentaire n'est plus actif."
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -213,53 +233,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "735b8eeb602abd2b",
+  "active": "c2a4202ab69f2f0d",
   "lastOpenFiles": [
-    "no-bitches 1.jpg",
-    "PCD/CM/Résumés CM/CM2.2.pdf",
-    "README.md",
-    "TRAD 1/TD/TD5/Notes.md",
-    "no-bitches.jpg",
-    "Pasted image 20241018163422.png",
-    "Pasted Image 20241001174114_248.png",
-    "TRAD 1/TD/TD1 et TD2/Notes.md",
-    "PCD/CM/Résumés CM/Notes.md",
-    "PCD/A savoir.md",
-    "TRAD 1/TD/TD1 et TD2/Automate LR(1).md",
-    "TRAD 1/TD/TD4/Notes.md",
-    "TRAD 1/TD/TD5/Arbre syntaxique.md",
-    "GRO/TD/TD4/Notes.md",
-    "GRO/Revisions/La GRO , sa vie , son oeuvre.md",
-    "GRO/CM/CM3/PL2n.pdf",
-    "GRO/CM/CM3/PL1.pdf",
-    "GRO/TD/TD1/Notes.md",
-    "GRO/TD/TD3/Notes.md",
-    "GRO/TD/TD2/notes.md",
-    "GRO/TD/TD1/Ex3 1.md",
-    "GRO/TD/TD1/Ex1 Q2.png",
-    "GRO/CM/CM3/PL3.pdf",
-    "GRO/TD/TD3/td3_2024.pdf",
-    "GRO/TD/TD5/Notes.md",
-    "GRO/TD/TD2/td2_2024.pdf",
-    "GRO/TD/TD1/td1.pdf",
-    "GRO/CM/CM3/Notes.md",
-    "GRO/CM/A savoir.md",
-    "Systèmes/TD/TD1/Notes.md",
-    "Systèmes/CM/CM1/Notes.md",
-    "GRO/CM/CM1/Notes.md",
-    "Pasted image 20241018161326.png",
-    "GRO/TD/TD1/AHHHHHHHHH.png",
-    "GRO/Revisions",
-    "GRO/TD/TD5",
-    "TRAD 1/TD/TD6/Notes.md",
-    "TRAD 1/TD/TD6/Y'a le bon arbre et le mauvais arbre.md",
+    "TRAD 1/CM/CM4/Notes.md",
+    "TRAD 1/TD/TD7/Notes.md",
+    "TRAD 1/TD/TD7/la grosse pile.md",
+    "TRAD 1/TD/TD7/La deuxieme grosse pile.md",
+    "TRAD 1/Revisions/Moi quand culture G/CULTURAGE.md",
     "TRAD 1/TD/TD6/Sainte marie mere jesus de dieu.md",
-    "Excalidraw/moci diagramme d'activité recrutement.md",
+    "TRAD 1/TD/TD6/Y'a le bon arbre et le mauvais arbre.md",
+    "TRAD 1/TD/TD6/Notes.md",
     "TRAD 1/TD/TD6/Grammaire plus simple.md",
+    "TRAD 1/Revisions/Moi quand culture G/CM-3typstn.pdf",
+    "TRAD 1/Revisions/Moi quand culture G/Sans titre.md",
+    "TRAD 1/TD/TD3/Notes.md",
+    "CULTURAGE.pdf",
+    "TRAD 1/TD/TD1 et TD2/Notes.md",
+    "TRAD 1/CM/CM4/Table LR(1).md",
+    "TRAD 1/TD/TD3/Automate SLR(1).md",
+    "TRAD 1/TD/TD1 et TD2/Juste envie de dcd.md",
+    "Pasted image 20241112163013.png",
+    "TRAD 1/TD/TD7/Sans titre.md",
+    "IA/TD/TD3/Notes.md",
+    "MOCI/TD/TD petit projet/Devoir de conception UML.md",
+    "MOCI/TD/TD petit projet/diagramme.png",
+    "Excalidraw/Scripts/Downloaded/Set Grid.md",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "Excalidraw/moci diagramme d'activité recrutement.md",
+    "IA/TD/TD3",
+    "TRAD 1/CM/CM2 et CM3/Notes.md",
+    "TRAD 1/TD/TD1 et TD2/Automate LR(1).md",
+    "TRAD 1/TD/TD5/Notes.md",
+    "TRAD 1/TD/TD4/Notes.md",
     "TRAD 1/TD/TD1 et TD2/AHHHHHHHHH 1.png",
-    "TRAD 1/TD/TD6",
+    "Excalidraw/Drawing 2024-11-10 19.20.04.excalidraw.md",
+    "TRAD 1/TD/TD1 et TD2/Pile.md",
+    "TRAD 1/CM/CM2 et CM3/Merci typst'n !.png",
     "TRAD 1/CM/CM1/Schéma Général d'un compilateur.png",
-    "Droit/TD/TD1/bober-kurwa.gif",
+    "TRAD 1/Revisions/Moi quand culture G",
+    "TRAD 1/Revisions",
+    "MOCI/TD/TD petit projet/Diagramme de classe.png",
+    "MOCI/TD/TD petit projet/Diagramme de sequence 3.png",
+    "MOCI/TD/TD petit projet/Diagramme de sequence 2.png",
+    "MOCI/TD/TD petit projet/Diagramme d'état.png",
+    "Devoir de conception UML.pdf",
+    "MOCI/TD/TD petit projet",
+    "GRO/TD/TD7/td4_2022.pdf - td4.pdf",
+    "IA/TD/TD2/IA2425_TD2_Contraintes.pdf",
+    "GRO/TD/TD7",
     "GRO/TD/TD1/Sans titre.canvas",
     "TRAD 1/CM/CM1/Untitled.canvas"
   ]

@@ -63,5 +63,4 @@ empiler(x_2)
 ### Exemple d'arbre syntaxique correspondant
 ![[TRAD 1/TD/TD4/Arbre syntaxique]]
 
-### Grammaire (pas la bonne putain)
 
