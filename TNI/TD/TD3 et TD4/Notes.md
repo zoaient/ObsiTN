@@ -51,10 +51,10 @@ $$Prewitt,est : \begin{pmatrix}
 	- Ne pas oublier de renverser l'image horizontalement et verticalement
 	- Donne l'indication de si il y'a un contour ou pas à cet endroit la
 
-| Masque  | Composante Nord$\frac{\partial I}{\partial y}$<br> | Composante Est $\frac{\partial I}{\partial x}$ |     Module      | Angle Est par rapport à Nord (arctan) |
-| :-----: | :------------------------------------------------: | :--------------------------------------------: | :-------------: | :-----------------------------------: |
-| Prewitt |                         -9                         |                      -12                       | $\sqrt{225}=15$ |                  37°                  |
-|  Sobel  |                        -13                         |                      -17                       |  $\sqrt{458}$   |                                       |
+| Masque  | Composante Nord$\frac{\partial I}{\partial y}$<br> | Composante Est $\frac{\partial I}{\partial x}$ | Module(Cnord²+Cest²)^1/2 | Angle Est par rapport à Nord (arctan) |
+| :-----: | :------------------------------------------------: | :--------------------------------------------: | :----------------------: | :-----------------------------------: |
+| Prewitt |                         -9                         |                      -12                       |     $\sqrt{225}=15$      |                  37°                  |
+|  Sobel  |                        -13                         |                      -17                       |       $\sqrt{458}$       |                                       |
 
 # Exercice 3
 ## Image

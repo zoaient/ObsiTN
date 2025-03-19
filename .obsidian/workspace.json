@@ -4,78 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e4670e29b985a7a4",
+        "id": "0ff9de2aa1ab702a",
         "type": "tabs",
         "children": [
           {
-            "id": "2decfec7e43a9469",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "TRAD 1/TD/TD7/La deuxieme grosse pile.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "La deuxieme grosse pile"
-            }
-          },
-          {
-            "id": "ca9da554f891ec73",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "TRAD 1/TD/TD7/la grosse pile.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "la grosse pile"
-            }
-          },
-          {
-            "id": "b90dc6f06b40e2ea",
+            "id": "b5e55a0c076fc777",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CULTURAGE.pdf"
+                "file": "TNI/Revisions/TNI1_RESUME.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CULTURAGE"
-            }
-          },
-          {
-            "id": "767b4e4b4e2e8455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TRAD 1/TD/TD7/Sans titre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "06033027c9287be9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c2a4202ab69f2f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TRAD 1/Revisions/Moi quand culture G/CULTURAGE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CULTURAGE"
+              "title": "TNI1_RESUME"
             }
           }
         ]
@@ -97,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -233,54 +175,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2a4202ab69f2f0d",
+  "active": "b5e55a0c076fc777",
   "lastOpenFiles": [
-    "TRAD 1/CM/CM4/Notes.md",
-    "TRAD 1/TD/TD7/Notes.md",
+    "TNI/Revisions/Notes sur les cm.md",
+    "TNI/TD/TD8/Notes.md",
+    "TNI/Revisions/TNI1_RESUME.pdf",
+    "TNI/Revisions/a.png",
+    "TRAD 1/Revisions/Moi quand culture G/CULTURAGE.md",
+    "CULTURAGE.pdf",
     "TRAD 1/TD/TD7/la grosse pile.md",
     "TRAD 1/TD/TD7/La deuxieme grosse pile.md",
-    "TRAD 1/Revisions/Moi quand culture G/CULTURAGE.md",
-    "TRAD 1/TD/TD6/Sainte marie mere jesus de dieu.md",
-    "TRAD 1/TD/TD6/Y'a le bon arbre et le mauvais arbre.md",
-    "TRAD 1/TD/TD6/Notes.md",
-    "TRAD 1/TD/TD6/Grammaire plus simple.md",
     "TRAD 1/Revisions/Moi quand culture G/CM-3typstn.pdf",
-    "TRAD 1/Revisions/Moi quand culture G/Sans titre.md",
-    "TRAD 1/TD/TD3/Notes.md",
-    "CULTURAGE.pdf",
-    "TRAD 1/TD/TD1 et TD2/Notes.md",
-    "TRAD 1/CM/CM4/Table LR(1).md",
-    "TRAD 1/TD/TD3/Automate SLR(1).md",
-    "TRAD 1/TD/TD1 et TD2/Juste envie de dcd.md",
-    "Pasted image 20241112163013.png",
+    "TRAD 1/A savoir.md",
+    "TRAD 1/PCL.md",
     "TRAD 1/TD/TD7/Sans titre.md",
-    "IA/TD/TD3/Notes.md",
-    "MOCI/TD/TD petit projet/Devoir de conception UML.md",
-    "MOCI/TD/TD petit projet/diagramme.png",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/moci diagramme d'activité recrutement.md",
-    "IA/TD/TD3",
-    "TRAD 1/CM/CM2 et CM3/Notes.md",
-    "TRAD 1/TD/TD1 et TD2/Automate LR(1).md",
-    "TRAD 1/TD/TD5/Notes.md",
-    "TRAD 1/TD/TD4/Notes.md",
-    "TRAD 1/TD/TD1 et TD2/AHHHHHHHHH 1.png",
-    "Excalidraw/Drawing 2024-11-10 19.20.04.excalidraw.md",
-    "TRAD 1/TD/TD1 et TD2/Pile.md",
-    "TRAD 1/CM/CM2 et CM3/Merci typst'n !.png",
-    "TRAD 1/CM/CM1/Schéma Général d'un compilateur.png",
-    "TRAD 1/Revisions/Moi quand culture G",
-    "TRAD 1/Revisions",
-    "MOCI/TD/TD petit projet/Diagramme de classe.png",
-    "MOCI/TD/TD petit projet/Diagramme de sequence 3.png",
-    "MOCI/TD/TD petit projet/Diagramme de sequence 2.png",
-    "MOCI/TD/TD petit projet/Diagramme d'état.png",
-    "Devoir de conception UML.pdf",
-    "MOCI/TD/TD petit projet",
-    "GRO/TD/TD7/td4_2022.pdf - td4.pdf",
+    "TRAD 1/TD/TD7/Notes.md",
+    "TRAD 1/TD/TD6/Notes.md",
+    "TRAD 1/CM/CM5 et CM6/Notes.md",
+    "TRAD 1/CM/CM7/Notes.md",
+    "TRAD 1/CM/En plus/Notes.md",
+    "TRAD 1/CM/CM4/Table LR(1).md",
+    "TRAD 1/CM/CM4/Notes.md",
+    "Financement de l'économie/TD/TD1/Notes.md",
+    "IA/TD/TD5/Notes.md",
+    "Financement de l'économie/TD/TD1/TD1 FIN ECO.pdf",
+    "GRO/Revisions/La GRO , sa vie , son oeuvre.md",
+    "GRO/TD/TD6/Notes.md",
+    "GRO/TD/TD7/Notes.md",
+    "GRO/TD/TD6/Arrête directe indirecte.md",
+    "GRO/TD/TD6/Graphe.md",
+    "GRO/TD/TD1/Notes.md",
+    "GRO/TD/TD1/Ex3 1.md",
+    "GRO/TD/TD1/Ex1 Q2.png",
+    "GRO/TD/TD5/Notes.md",
+    "IA/TD/TD5/IA2425_TD5_Arbres-de-décision.pdf",
+    "IA/TD/TD4/IA2425_TD4_PDM.pdf",
+    "IA/TD/TD3/IA2425_TD3_AlgoGen.pdf",
+    "GRO/CM/CM1/introGRO.pdf",
     "IA/TD/TD2/IA2425_TD2_Contraintes.pdf",
-    "GRO/TD/TD7",
+    "IA/TD/TD1/IA2425_TD1_Recherche-Jeux.pdf",
+    "TNI/TD/TD8/Pasted image 20241206142458.png",
+    "Pasted image 20241112163013.png",
+    "no-bitches 1.jpg",
+    "TEC/TD/TD4/images.png",
+    "TNI/TD/TD6 et TD7/Pasted image 20241025142409.png",
+    "TNI/TD/TD5/Image avant dilatation.png",
+    "TNI/TD/TD5/Image après dilatation 2.png",
+    "Pasted image 20241121111509.png",
     "GRO/TD/TD1/Sans titre.canvas",
     "TRAD 1/CM/CM1/Untitled.canvas"
   ]
